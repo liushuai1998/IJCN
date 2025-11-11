@@ -1,11 +1,3 @@
-<style>
-p { 
-  text-align: justify; 
-  text-justify: inter-word;
-  line-height: 1.7;
-}
-</style>
-
 ## [Blind JPEG Artifacts Removal  via Inverse JPEG Compression]
 Shuai Liu, Binqiang Liu, Qingyu Mao, Jiacong Chen, Fanyang Meng, Yonghong Tian
 ________
