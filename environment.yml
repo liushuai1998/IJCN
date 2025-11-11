@@ -1,0 +1,20 @@
+# cd IJCN-main  && conda env create -f environment.yml  && conda activate ijcn  && python test_color_IJCN.py
+name: ijcn
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.19
+  - numpy=1.24.3
+  - pip
+  - pip:
+      - torch==2.0.0+cu117
+      - torchvision==0.15.1+cu117
+      - --extra-index-url https://download.pytorch.org/whl/cu117
+      
+      - torchjpeg==0.9.32
+      - opencv-python==4.10.0.84
+      - einops==0.8.0
+      - timm==1.0.15
+      - matplotlib==3.7.5
+      - tqdm==4.67.1
