@@ -37,7 +37,7 @@ Download the following pre-trained models of IJCN from [Github Release]() to `mo
 
 
 ## Test
-After preparing the environment, datasets, and pretrained models, run the following commands to test the models. If you want to test your **own real JPEG images**, modify the `L_path` in `test_real_IJCN.py` to the path of your images.
+After preparing the environment, datasets, and pretrained models, run the following commands to test the models. If you want to test your own real JPEG images, modify the `L_path` in `test_real_IJCN.py` to the path of your images.
 
 - Color Single JPEG images
 ```bash
@@ -56,3 +56,6 @@ python test_real_IJCN.py
 
 ## Acknowledgement
 This code is built on [FBCNN](https://github.com/jiaxi-jiang/FBCNN), [QGAC](https://gitlab.com/Queuecumber/quantization-guided-ac), and [SwinIR](https://github.com/JingyunLiang/SwinIR). We thank the authors for sharing their codes.
+
+## Contact
+For any questions or inquiries, please contact us at liushuai981115@163.com or 2410044032@mails.szu.edu.cn.
