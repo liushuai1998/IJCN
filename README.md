@@ -1,4 +1,4 @@
-## Blind JPEG Artifacts Removal  via Inverse JPEG Compression (TCSVT 2025)
+## [Blind JPEG Artifacts Removal  via Inverse JPEG Compression (TCSVT 2025)](https://doi.org/10.1109/TCSVT.2025.3643946)
 Shuai Liu, Binqiang Liu, Qingyu Mao, Jiacong Chen, Fanyang Meng, Yonghong Tian
 ________
 
